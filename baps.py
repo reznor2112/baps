@@ -1,3 +1,4 @@
+#sanity check from ipad
 #setup global
 import time #used for pauses
 import os #used for cls
